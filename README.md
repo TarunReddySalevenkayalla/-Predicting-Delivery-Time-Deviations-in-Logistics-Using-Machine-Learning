@@ -11,7 +11,7 @@ The implementation supports the experimental analysis and results presented in t
 
 The primary objective of this project is to evaluate the effectiveness of ensemble machine-learning models in predicting delivery time deviation as a continuous outcome variable. The study also examines the impact of feature engineering and interaction effects on predictive accuracy and model generalisation.
 
-⸻
+------
 
 # Dataset
 
@@ -35,7 +35,7 @@ The project follows a structured machine-learning workflow:
 	6.	Model training and evaluation
 	7.	Feature importance analysis
 
-
+----
 
 # Machine-Learning Models
 
@@ -47,6 +47,7 @@ The following ensemble regression models were implemented and compared:
 
 All models were trained under identical experimental conditions to ensure fair comparison.
 
+-----
 
 # Key Results
 	•	Boosting-based models achieved the strongest performance
